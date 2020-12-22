@@ -1,1 +1,57 @@
 @charset "UTF-8";
+.top--bar{
+  display: table;
+  width:100%;
+}
+.red--box{
+  width: 300px;
+  padding:20px;
+  background: #ff7b7b;
+  text-align: center;
+  display:table-cell;
+}
+.purple--box{
+  padding:20px;
+  background: #7b86ff;
+  text-align:center;
+  display:table-cell;
+}
+.yellow--box{
+  width: 300px;
+  padding:20px;
+  background: #fff27b;
+  text-align: center;
+  display:table-cell;
+}
+
+.bottom--bar{
+  display:table;
+  width: 100%;
+  margin-top: 50px;
+}
+.green--box{
+  padding:20px;
+  background: #7bff91;
+  text-align:center;
+  display:table-cell;
+}
+.pink--box{
+  width: 400px;
+  padding:20px;
+  background: #ff7be2;
+  text-align:center;
+  display:table-cell;
+}
+.orange--box{
+  width:400px;
+  padding:20px;
+  background: #ffc67b;
+  text-align:center;
+  display:table-cell;
+}
+.blue--box{
+  padding:20px;
+  background: #7bf2ff;
+  text-align:center;
+  display:table-cell;
+}
