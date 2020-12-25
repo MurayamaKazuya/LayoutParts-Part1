@@ -19,7 +19,7 @@
 .cell--table tr{
   background: #bcbcbc;
 }
-.cell--table tr:nth-child(2n){
+.cell--table tr:nth-child(2n-1){
   background: #d5ffc7;
 }
 .cell--table tr:last-child {
